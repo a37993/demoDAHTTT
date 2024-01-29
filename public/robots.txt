@@ -1,0 +1,4 @@
+# https://www.robotstxt.org/robotstxt.html
+User-agent: *
+Disallow:
+//mã robots.txt này cho phép mọi trình duyệt và bot tìm kiếm truy cập và quét tất cả các trang trên trang web mà nó áp dụng.
